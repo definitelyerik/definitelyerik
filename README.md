@@ -1,5 +1,3 @@
-[![@definitelyerik's Holopin board](https://holopin.me/definitelyerik)](https://holopin.io/@definitelyerik)
-
 ## 👋🏻 Welcome!
 
 My name is Erik and I am a 29-year-old entrepreneur from Spain. I enjoy expanding and growing my knowledge in multiple disciplines: writing, coding, photography, design… Currently, I’m trying to focus my career on writing/translating and doing some minimalist front-end web design and development.
