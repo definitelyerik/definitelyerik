@@ -2,7 +2,7 @@
 
 My name is Erik and I am a 31-year-old entrepreneur from Spain. I enjoy expanding and growing my knowledge in multiple disciplines: writing, coding, photography, design…
 
-I currently have a steady 9-to-5 office job, but still dabble on writing/translating and doing some minimalist front-end web design and development in my free time. I also teach some courses within my regular work hours and outside of them, so feel free to support me via [Ko-Fi](https://ko-fi.com/definitelyerik) if you have enjoyed anything you have learned through me!
+I currently have a steady 9-to-5 office job, but still dabble on writing/translating, doing some minimalist front-end web design and honing my back-end skills in my free time. I also teach some courses within my regular work hours!
 
 I’m a huge advocate of open-source code and try to build my projects based on that philosophy; I thrive on building clean, minimalist, open and free products.
 
