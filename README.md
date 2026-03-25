@@ -18,4 +18,3 @@ This is a LGBTQ+ friendly space, as well as a safe space in general. My pronouns
 - 🎨 My first ever graphical interface was built with [Java Swing](https://en.wikipedia.org/wiki/Swing_(Java)) and almost made me quit on learning about web-design.
 - 🌍 I speak Spanish, German, English and Italian fluently. I have also dabbled in French, Croatian, Japanese and Polish but have not practiced most of them for quite some time so I probably am no longer functional in those.
 - 🤝 If you want or need collaboration for a project just contact me! I’m told I am very friendly and always looking for a good conversation!
-- ✉️ [Contact Me!](https:definitelyerik.com)
